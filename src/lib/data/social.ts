@@ -31,7 +31,7 @@ export const socialLinks: SocialLink[] = [
 	},
 	{
 		title: 'Email',
-		url: 'me@ryan-ott.com',
+		url: 'contact@ryan-ott.com',
 		icon: 'fa-solid fa-envelope',
 		target: ''
 	}
