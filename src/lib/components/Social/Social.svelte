@@ -33,7 +33,7 @@
 <div class="flex space-x-4">
 	{#each socialLinks as link}
 		{#if link.title === 'Email'}
-			<button class="btn variant-soft-primary" use:popup={popupClick}
+			<button class="btn variant-soft-primary hover:variant-filled-primary" use:popup={popupClick}
 				><i class="far fa-envelope-open" /> &nbsp;Email</button
 			>
 			<div class="card p-4 variant-filled-primary" data-popup="popupClick">
