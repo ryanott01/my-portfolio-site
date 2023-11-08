@@ -51,7 +51,7 @@
 			<i class="fa-solid fa-users text-4xl text-primary-500" />
 			<h3 class="h3">SEO & Web</h3>
 			<p class="opacity-75">
-				I have professional experience optimizing websites for SEO, and working with marketing teams to find keywords, update meta info, and audit backlinks.
+				I have professional experience with SEO, and working with marketing teams to find keywords, update meta info, and audit backlinks.
 			</p>
 		</div>
 	</section>
