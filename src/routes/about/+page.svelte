@@ -52,7 +52,7 @@
 			About a year ago, my career took a new direction when I Started DevMountain's coding bootcamp. The program ignited a passion for coding and prompted me to seek a development role. I've been honing my coding skills ever since and am eager for a career pivot into software development.
 		</p>
 		<p class="md:text-xl opacity-75">
-			In summary, my diverse IT background and recent coding education have prepared me for a future role as a specialized developer. I'm enthusiastic about mastering the art and science of software development as my long-term career path.
+			In summary, my diverse IT background and recent coding education have prepared me for a future role as a specialized developer. I'm enthusiastic about mastering the art and computer science of software development as my long-term career path.
 		</p>
 	</section>
 </div>
