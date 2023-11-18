@@ -6,7 +6,7 @@ This templates used SvelteKit, Tailwind, and Skeleton preconfigured along with a
 
 Find installation instructions within the FAQ here: https://skeleton.dev/docs/sponsorship#premium-templates
 
-## Themes
+## Themes!
 
 This template comes pre-configured with the "Wintry" theme. [Learn more about customizing themes here](https://www.skeleton.dev/docs/themes).
 
